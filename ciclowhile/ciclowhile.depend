@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1462672311 source:c:\users\juan dubon\desktop\diego\progra 22\ciclowhile\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
