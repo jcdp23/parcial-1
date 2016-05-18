@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1462315927 source:c:\users\juan dubon\desktop\diego\progra 22\generar10numeros\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
